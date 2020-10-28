@@ -1,0 +1,15 @@
+Package: DiscGolf2
+Title: More Disc Golf!
+Version: 0.1.0
+Authors@R: 
+    person(given = "Nick",
+           family = "Horton",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Everything you wanted for flying discs.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
